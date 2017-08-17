@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>practiceClass</class>
+ <widget class="QMainWindow" name="practiceClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1003</width>
+    <height>880</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>9</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>practice</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QPushButton" name="Square1_1">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>100</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }
+</string>
+    </property>
+    <property name="text">
+     <string>Square1_1</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square1_2">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>100</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Sqaure1_2</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square1_4">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>160</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Sqaure1_4</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square1_3">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>160</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Sqaure1_3</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square2_1">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>100</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square2_1</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square2_2">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>100</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square2_2</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square2_4">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>160</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square2_4</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square2_3">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>160</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square2_3</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square3_1">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>100</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square3_1</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square3_3">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>160</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square3_3</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square3_4">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>160</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square3_4</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square3_2">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>100</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="mouseTracking">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Square3_2</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_1">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>350</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_1</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_3">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>350</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_3</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_5">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>350</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_5</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_7">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>350</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_7</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_9">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>350</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_9</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_11">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>350</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_11</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_2">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>410</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_2</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_4">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>410</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_4</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_6">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>410</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_6</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_8">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>410</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_8</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_10">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>410</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_10</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec1_12">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>410</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec1_12</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_1">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>550</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_1</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_3">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>550</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_3</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_5">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>550</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_5</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_11">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>550</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_11</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_9">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>550</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_9</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_7">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>550</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_7</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_10">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>610</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_10</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_8">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>610</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_8</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_6">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>610</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_6</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_4">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>610</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_4</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_2">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>610</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_2</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Rec2_12">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>610</y>
+      <width>71</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: rgb(102, 176, 54) }</string>
+    </property>
+    <property name="text">
+     <string>Rec2_12</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_6">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_7">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_8">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_9">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>770</y>
+      <width>91</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </widget>
+   <widget class="QCalendarWidget" name="calendarWidget">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>0</y>
+      <width>168</width>
+      <height>155</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square1_5">
+    <property name="geometry">
+     <rect>
+      <x>980</x>
+      <y>840</y>
+      <width>16</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: white }</string>
+    </property>
+    <property name="text">
+     <string>Sqaure1_3</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Square1_6">
+    <property name="geometry">
+     <rect>
+      <x>990</x>
+      <y>820</y>
+      <width>16</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Berlin Sans FB Demi</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton { color: white; background-color: white }</string>
+    </property>
+    <property name="text">
+     <string>Sqaure1_3</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1003</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>보기</string>
+    </property>
+    <addaction name="action_2"/>
+    <addaction name="actionExit_2"/>
+   </widget>
+   <addaction name="menu"/>
+  </widget>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionExit_2">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="action_2">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>재배치</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <tabstops>
+  <tabstop>Square1_1</tabstop>
+  <tabstop>Square1_2</tabstop>
+  <tabstop>Square1_3</tabstop>
+  <tabstop>Square1_4</tabstop>
+  <tabstop>Square2_1</tabstop>
+  <tabstop>Square2_2</tabstop>
+  <tabstop>Square2_4</tabstop>
+  <tabstop>Square2_3</tabstop>
+  <tabstop>Square3_1</tabstop>
+  <tabstop>Square3_3</tabstop>
+  <tabstop>Square3_4</tabstop>
+  <tabstop>Square3_2</tabstop>
+  <tabstop>Rec1_1</tabstop>
+  <tabstop>Rec1_3</tabstop>
+  <tabstop>Rec1_5</tabstop>
+  <tabstop>Rec1_7</tabstop>
+  <tabstop>Rec1_9</tabstop>
+  <tabstop>Rec1_11</tabstop>
+  <tabstop>Rec1_2</tabstop>
+  <tabstop>Rec1_4</tabstop>
+  <tabstop>Rec1_6</tabstop>
+  <tabstop>Rec1_8</tabstop>
+  <tabstop>Rec1_10</tabstop>
+  <tabstop>Rec1_12</tabstop>
+  <tabstop>Rec2_1</tabstop>
+  <tabstop>Rec2_3</tabstop>
+  <tabstop>Rec2_5</tabstop>
+  <tabstop>Rec2_11</tabstop>
+  <tabstop>Rec2_9</tabstop>
+  <tabstop>Rec2_7</tabstop>
+  <tabstop>Rec2_10</tabstop>
+  <tabstop>Rec2_8</tabstop>
+  <tabstop>Rec2_6</tabstop>
+  <tabstop>Rec2_4</tabstop>
+  <tabstop>Rec2_2</tabstop>
+  <tabstop>Rec2_12</tabstop>
+ </tabstops>
+ <resources>
+  <include location="practice.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>Square1_3</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare1_3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>140</x>
+     <y>237</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>49</x>
+     <y>264</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square2_1</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare2_1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>402</x>
+     <y>157</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>429</x>
+     <y>67</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square2_2</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare2_2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>475</x>
+     <y>161</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>506</x>
+     <y>84</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square2_3</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare2_3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>402</x>
+     <y>221</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>323</x>
+     <y>217</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square2_4</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare2_4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>489</x>
+     <y>227</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>522</x>
+     <y>294</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square3_1</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare3_1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>663</x>
+     <y>160</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>673</x>
+     <y>55</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square3_2</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare3_2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>714</x>
+     <y>138</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>805</x>
+     <y>93</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square3_3</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare3_3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>677</x>
+     <y>239</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>658</x>
+     <y>305</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square3_4</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare3_4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>743</x>
+     <y>219</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>844</x>
+     <y>275</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_2</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>253</x>
+     <y>471</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>120</x>
+     <y>455</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square1_1</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare4_1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>140</x>
+     <y>181</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>77</x>
+     <y>162</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square1_2</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSqaure1_2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>241</x>
+     <y>163</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>209</x>
+     <y>328</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_1</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>274</x>
+     <y>415</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>121</x>
+     <y>384</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_4</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>350</x>
+     <y>474</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>378</x>
+     <y>523</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_3</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>322</x>
+     <y>400</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>363</x>
+     <y>329</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_5</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_5()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>422</x>
+     <y>408</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>463</x>
+     <y>330</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_6</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_6()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>434</x>
+     <y>471</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>498</x>
+     <y>530</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_7</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_7()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>513</x>
+     <y>402</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>538</x>
+     <y>343</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_8</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_8()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>496</x>
+     <y>475</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>590</x>
+     <y>523</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_9</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_9()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>561</x>
+     <y>417</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>591</x>
+     <y>321</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_10</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_10()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>569</x>
+     <y>474</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>696</x>
+     <y>536</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_11</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_11()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>631</x>
+     <y>431</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>811</x>
+     <y>366</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec1_12</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec1_12()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>642</x>
+     <y>468</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>805</x>
+     <y>489</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_1</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>261</x>
+     <y>600</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>123</x>
+     <y>536</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_2</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>254</x>
+     <y>674</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>77</x>
+     <y>651</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_3</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>336</x>
+     <y>604</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>285</x>
+     <y>535</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_4</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>350</x>
+     <y>685</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>749</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_5</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_5()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>406</x>
+     <y>604</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>458</x>
+     <y>540</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_6</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_6()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>434</x>
+     <y>668</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>396</x>
+     <y>765</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_7</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_7()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>485</x>
+     <y>615</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>543</x>
+     <y>554</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_8</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_8()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>490</x>
+     <y>680</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>475</x>
+     <y>762</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_9</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_9()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>608</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>645</x>
+     <y>550</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_10</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_10()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>572</x>
+     <y>688</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>544</x>
+     <y>755</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_11</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_11()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>643</x>
+     <y>607</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>747</x>
+     <y>590</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Rec2_12</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickRec2_12()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>631</x>
+     <y>691</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>731</x>
+     <y>760</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square1_4</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare1_4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>223</x>
+     <y>230</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>304</x>
+     <y>275</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_6</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>172</x>
+     <y>809</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>84</x>
+     <y>725</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_3</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>247</x>
+     <y>816</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>211</x>
+     <y>699</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_4</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>357</x>
+     <y>821</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>312</x>
+     <y>732</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>428</x>
+     <y>810</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>403</x>
+     <y>708</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input5()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>529</x>
+     <y>813</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>516</x>
+     <y>733</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_7</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input6()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>612</x>
+     <y>822</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>608</x>
+     <y>724</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_8</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input7()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>699</x>
+     <y>816</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>731</x>
+     <y>678</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_9</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>input8()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>799</x>
+     <y>813</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>908</x>
+     <y>666</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square1_2</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSquare4_2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>240</x>
+     <y>168</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>319</x>
+     <y>68</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square1_6</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSqaure1_1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>880</x>
+     <y>415</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>946</x>
+     <y>343</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Square1_5</sender>
+   <signal>clicked()</signal>
+   <receiver>practiceClass</receiver>
+   <slot>clickSqaure1_2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>908</x>
+     <y>481</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>957</x>
+     <y>455</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>clickSqaure1_1()</slot>
+  <slot>clickSqaure1_2()</slot>
+  <slot>clickSquare1_3()</slot>
+  <slot>clickSquare1_4()</slot>
+  <slot>clickSquare2_1()</slot>
+  <slot>clickSquare2_2()</slot>
+  <slot>clickSquare2_3()</slot>
+  <slot>clickSquare2_4()</slot>
+  <slot>clickSquare3_1()</slot>
+  <slot>clickSquare3_2()</slot>
+  <slot>clickSquare3_3()</slot>
+  <slot>clickSquare3_4()</slot>
+  <slot>releaseSquare1_1()</slot>
+  <slot>releaseSquare1_2()</slot>
+  <slot>releaseSquare1_3()</slot>
+  <slot>releaseSquare1_4()</slot>
+  <slot>releaseSquare2_1()</slot>
+  <slot>releaseSquare2_2()</slot>
+  <slot>releaseSquare2_3()</slot>
+  <slot>releaseSquare2_4()</slot>
+  <slot>releaseSquare3_1()</slot>
+  <slot>releaseSquare3_2()</slot>
+  <slot>releaseSquare3_3()</slot>
+  <slot>releaseSquare3_4()</slot>
+  <slot>clickRec1_2()</slot>
+  <slot>clickRec1_1()</slot>
+  <slot>clickRec1_4()</slot>
+  <slot>clickRec1_3()</slot>
+  <slot>clickRec1_5()</slot>
+  <slot>clickRec1_6()</slot>
+  <slot>clickRec1_7()</slot>
+  <slot>clickRec1_8()</slot>
+  <slot>clickRec1_9()</slot>
+  <slot>clickRec1_10()</slot>
+  <slot>clickRec1_11()</slot>
+  <slot>clickRec1_12()</slot>
+  <slot>clickRec2_1()</slot>
+  <slot>clickRec2_2()</slot>
+  <slot>clickRec2_3()</slot>
+  <slot>clickRec2_4()</slot>
+  <slot>clickRec2_5()</slot>
+  <slot>clickRec2_6()</slot>
+  <slot>clickRec2_7()</slot>
+  <slot>clickRec2_8()</slot>
+  <slot>clickRec2_9()</slot>
+  <slot>clickRec2_10()</slot>
+  <slot>clickRec2_11()</slot>
+  <slot>clickRec2_12()</slot>
+  <slot>input1()</slot>
+  <slot>input2()</slot>
+  <slot>input3()</slot>
+  <slot>input4()</slot>
+  <slot>input5()</slot>
+  <slot>input6()</slot>
+  <slot>input7()</slot>
+  <slot>input8()</slot>
+  <slot>clickSquare4_1()</slot>
+  <slot>clickSquare4_2()</slot>
+ </slots>
+</ui>
